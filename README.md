@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'am currently MCA
+I'am currently pursuing MCA
 
 
 # 💻 Tech Stack:
